@@ -1,0 +1,21 @@
+.header-section {
+    background-color: #C7C7D9;
+}
+
+.popular-bg {
+    height: 200px;
+    width:auto;
+    background:url(/photos/images\ \(5\).jpeg);
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+}
+
+.footer-section {
+    background-color: #3D3D69;
+}
+
+.footer-section a {
+    text-decoration: none;
+    color: white;
+}
